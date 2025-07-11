@@ -56,7 +56,8 @@ Levinson, H. (2021). "The Neural Representation of Abstract Concepts in Typical 
 ## Interactive Demos
 
 - [TIDE Interactive Tool](https://hillarydanan.github.io/TIDE/tide_interactive.html)
-- [BIND Systems Architecture](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)
+- [BIND Systems Architecture Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)
+- [BIND Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)
 
 ## Contact
 
