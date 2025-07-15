@@ -1,64 +1,99 @@
-# Neurodiversity-Inspired Cognitive Architectures for AI Systems
-
-*From neural pathways to computational diversity*
+# Cognitive Architectures for AI Systems
+*Exploring how cognitive diversity creates computational advantages*
 
 ## Overview
 
-This meta-repository documents research progression from empirical neuroscience findings to practical AI system design, exploring how cognitive diversity can enhance AI robustness.
+This research program investigates how different cognitive architectures (neurotypical, autism, ADHD) represent alternative computational strategies that can enhance AI system design. Through mathematical frameworks and interactive visualizations, we demonstrate that neurodiversity is not a limitation but a source of computational innovation.
 
-## Research Journey
+## Core Thesis
 
-### 1. [BIND - Boundary Information Neural Dynamics](https://github.com/HillaryDanan/BIND)
-- **Finding**: Information transforms at system boundaries
-- **Metric**: Φ (integrated information) measurement  
-- **TIDE Application**: Quantifying self-time integration strength
+Different minds achieve identical outcomes through different dimensional organizations of self and time. By understanding these patterns mathematically, we can build AI systems that leverage cognitive diversity for robustness, adaptability, and innovation.
 
-### 2. [Concrete-Overflow-Detector](https://github.com/HillaryDanan/concrete-overflow-detector)
-- **Finding**: Alternative neural pathways achieve identical outcomes
-- **Evidence**: Concrete pathway usage in abstract processing (ASD)
-- **TIDE Application**: Empirical basis for dimensional reorganization
+## Research Frameworks
 
-### 3. [Information-Atoms](https://github.com/HillaryDanan/information-atoms)
-- **Finding**: Information processing occurs in discrete units
-- **Framework**: Atomic information transformation
-- **TIDE Application**: Dimensional processing unit definition
+### Foundation: TIDE & BIND
+- **[TIDE - Temporal-Internal Dimensional Encoding](https://github.com/HillaryDanan/TIDE)** | [Interactive Demo](https://hillarydanan.github.io/TIDE/tide_interactive.html)
+  - Core framework mapping how different architectures organize self and time dimensions
+  - Mathematical basis for cognitive diversity as computational strategy
 
-### 4. [Hexagonal-Consciousness Suite](https://github.com/HillaryDanan/hexagonal-consciousness-suite)
-- **Finding**: Hexagonal lattices model cognitive organization
-- **Pattern**: Structural symmetries in information processing
-- **TIDE Application**: Architecture-specific organizational patterns
+- **[BIND - Boundary Information Neural Dynamics](https://github.com/HillaryDanan/BIND)** | [Systems Demo](https://hillarydanan.github.io/BIND/bind_systems_interactive.html) | [Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)
+  - Information transformation at system boundaries
+  - Φ (integrated information) measurement framework
 
-### 5. [Hexagonal-Vision Research](https://github.com/HillaryDanan/hexagonal-vision-research)
-- **Finding**: Visual processing follows hexagonal organization
-- **Evidence**: Biological vision system structures
-- **TIDE Application**: Perceptual architecture patterns
+### Integration: TIDE-Resonance
+- **[TIDE-Resonance](https://github.com/HillaryDanan/TIDE-resonance)** ⭐
+  - Synthesis of multiple frameworks into interactive experiences
+  - Real-time visualization of trust dynamics between cognitive architectures
+  - Professional research tools for hypothesis testing
 
-### 6. [Game-Theory-Trust Suite](https://github.com/HillaryDanan/game-theory-trust-suite)
-- **Finding**: Trust dynamics vary by cognitive architecture
-- **Dynamic**: Cooperation strategies differ by processing style
-- **TIDE Application**: Multi-agent interactions between architectures
+#### Live Experiences:
+1. **[Main Experience](https://hillarydanan.github.io/TIDE-resonance/)** - Beautiful introduction to cognitive resonance
+2. **[Interactive Lab](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)** - Hands-on exploration
+3. **[Advanced Research Lab](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Professional simulation environment
 
-### 7. [TIDE - Temporal-Internal Dimensional Encoding](https://github.com/HillaryDanan/TIDE)
-- **Synthesis**: Cognitive architectures as dimensional organization patterns
-- **Innovation**: Computational diversity from neurodiversity insights
-- **Application**: Task-appropriate AI system design
+### Supporting Frameworks
 
-## Key Publications
+#### Information Processing
+- **[Information-Atoms](https://github.com/HillaryDanan/information-atoms)**
+  - Discrete information processing units
+  - Atomic transformation framework
+
+- **[Concrete-Overflow-Detector](https://github.com/HillaryDanan/concrete-overflow-detector)**
+  - Alternative neural pathway detection
+  - Evidence for dimensional reorganization in autism
+
+#### Structural Organization
+- **[Hexagonal-Consciousness Suite](https://github.com/HillaryDanan/hexagonal-consciousness-suite)**
+  - Hexagonal lattice models of cognitive organization
+  - Structural symmetries in information processing
+
+- **[Hexagonal-Vision Research](https://github.com/HillaryDanan/hexagonal-vision-research)**
+  - Visual processing through hexagonal frameworks
+  - Biological vision system structures
+
+#### Trust & Cooperation
+- **[Game-Theory-Trust Suite](https://github.com/HillaryDanan/game-theory-trust-suite)**
+  - Mathematical models of trust evolution
+  - Architecture-specific cooperation strategies
+  - Foundation for TIDE-resonance trust dynamics
+
+## Key Insights
+
+1. **Dimensional Reorganization**: What appears as "deficit" is often efficient reorganization
+2. **Trust Dynamics**: Different architectures build trust through different pathways
+3. **Sensory Resonance**: Each architecture resonates with different environmental patterns
+4. **Complementary Processing**: Diverse teams outperform homogeneous ones
+
+## Applications
+
+### For AI Systems:
+- Design architectures that match task requirements
+- Build robust systems through architectural diversity
+- Create interpretable AI through dimensional frameworks
+
+### For Human Understanding:
+- Visualize how different minds process information
+- Design inclusive technologies
+- Optimize team composition for innovation
+
+## Interactive Tools
+
+All frameworks include live demonstrations:
+1. [TIDE-Resonance Main](https://hillarydanan.github.io/TIDE-resonance/)
+2. [TIDE Interactive](https://hillarydanan.github.io/TIDE/tide_interactive.html)
+3. [BIND Systems Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)
+4. [BIND Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)
+5. [TIDE-Resonance Lab](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)
+6. [TIDE-Resonance Advanced](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)
+
+## Publications
 
 Levinson, H. (2021). "The Neural Representation of Abstract Concepts in Typical and Atypical Cognition" [Dissertation]. Rutgers University.
-
-## AI Applications
-
-- **Robust System Design**: Multiple architectures for different tasks
-- **Interpretable Behavior**: Dimensional framework explains AI decisions  
-- **Alignment Strategies**: Architecture-specific approaches
-
-## Interactive Demos
-
-- [TIDE Interactive Tool](https://hillarydanan.github.io/TIDE/tide_interactive.html)
-- [BIND Systems Architecture Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)
-- [BIND Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)
 
 ## Contact
 
 Hillary Danan | [GitHub](https://github.com/HillaryDanan) | Data Scientist & Cognitive Neuroscience PhD
+
+---
+
+*"Different minds resonate with different rhythms - let's map the spectrum"*
